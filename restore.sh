@@ -1,0 +1,1 @@
+mongorestore -u client-ee04813f -p $1 -h production-db-c3.meteor.io:27017 -db bdai_meteor_com meteor/meteor/ --objcheck --drop
